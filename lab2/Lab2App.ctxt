@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Lab2App
+comment1.params=
+comment1.target=Lab2App()
+comment1.text=\r\n\ constructs\ the\ user\ interface\r\n
+comment2.params=str
+comment2.target=java.lang.String\ expandString(java.lang.String)
+comment3.params=ae
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=obj\ i\ s\ resultSpot
+comment4.target=boolean\ doXform(Lab2,\ int,\ java.lang.String,\ java.lang.String[])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=create\ the\ window\ and\ display\ it
+comment6.params=e
+comment6.target=void\ windowClosing(java.awt.event.WindowEvent)
+numComments=7
