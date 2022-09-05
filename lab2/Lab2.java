@@ -56,7 +56,7 @@ public class Lab2 {
     }
 
     // #5: trimmed, with last 10 characters removed
-    public String stringMinusLastTenChars�(String input) {
+    public String stringMinusLastTenChars(String input) {
         return input;
     }
     
