@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Lab2
-comment0.text=\r\n\ class\ Lab2\ -\ performs\ string\ manipulations\r\n\r\n
+comment0.text=\n\ class\ Lab2\ -\ performs\ string\ manipulations\n\n
 comment1.params=
 comment1.target=Lab2()
 comment10.params=input
@@ -22,7 +22,7 @@ comment5.target=java.lang.String\ stringAppendLength(java.lang.String)
 comment6.params=input
 comment6.target=java.lang.String\ stringMinusFirstTenChars(java.lang.String)
 comment7.params=input
-comment7.target=java.lang.String\ stringMinusLastTenChars\u0000(java.lang.String)
+comment7.target=java.lang.String\ stringMinusLastTenChars(java.lang.String)
 comment8.params=input
 comment8.target=java.lang.String\ stringInsert(java.lang.String)
 comment9.params=input
